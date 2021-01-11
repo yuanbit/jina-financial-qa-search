@@ -1,0 +1,10 @@
+!FinBertQARanker
+with:
+  {}
+metas:
+  py_modules:
+    - workspace/__init__.py
+requests:
+  on:
+    [ SearchRequest ]:
+      - !Matches2DocRankDriver { }

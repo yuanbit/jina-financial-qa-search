@@ -1,0 +1,5 @@
+workspace/
+FinBertQARanker/models/
+.ipynb_checkpoints/
+dataset/
+model/
