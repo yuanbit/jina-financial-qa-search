@@ -45,10 +45,10 @@ truth answer from the [FiQA](https://sites.google.com/view/fiqa/home) dataset:
 ### Clone:
 
 ```
-git clone https://github.com/jina-ai/examples.git
+https://github.com/yuanbit/jina-financial-qa-search.git
 ```
 
-We will use ```financial-qa-search/``` as our working directory. 
+We will use ```jina-financial-qa-search/``` as our working directory. 
 
 ### Install:
 
